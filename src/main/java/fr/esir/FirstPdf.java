@@ -178,3 +178,6 @@ public class FirstPdf {
         }
     }
 }
+function produit(a, b){
+    return(a * b)
+}
