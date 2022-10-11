@@ -179,4 +179,3 @@ public class FirstPdf {
     }
 }
 
-int b;
